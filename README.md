@@ -31,11 +31,11 @@ Contents : ResNet, GAN, DCGAN, ProGAN, CycleGAN
 
 
 
-#### *나머지는 추후 업로드 예정!*
-
-
 ## 3. ProGAN (PG-GAN이라고도 불림)
 
 - 코드 구현 링크 : [[ProGAN Github Page](https://github.com/jeromerony/Progressive_Growing_of_GANs-PyTorch)] (구현하기 정말 쉽게 되어있음)
 
 - 논문 링크 : [[ProGAN Paper](https://arxiv.org/pdf/1710.10196.pdf)]
+
+#### *나머지는 추후 업로드 예정!*
+
