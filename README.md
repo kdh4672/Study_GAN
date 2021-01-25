@@ -29,6 +29,8 @@ Contents : ResNet, GAN, DCGAN, ProGAN, CycleGAN
 
 - 논문 링크 :  [[DC-GAN Paper](https://arxiv.org/pdf/1511.06434.pdf)]
 
+- DCGAN 구현된 ipynb 파일 링크 : 코드 구현이 너무 어려우면 공개
+
 
 
 ## 3. ProGAN (PG-GAN)
