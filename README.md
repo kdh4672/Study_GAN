@@ -4,6 +4,7 @@
 ### - Start 21.01.19
 Contents : ResNet, GAN, DCGAN, ProGAN, CycleGAN
 
+# 1주차
 
 ## 0. ResNet
 
@@ -14,12 +15,13 @@ Contents : ResNet, GAN, DCGAN, ProGAN, CycleGAN
 - ResNet 구현 동영상 링크 (모두를 위한 딥러닝, 다른 네트워크 구현 동영상도 많음): [[모모딥-Pytorch](https://deeplearningzerotoall.github.io/season2/lec_pytorch.html)]
 
 
-## 1.  GAN
+## 1. GAN
 
 - 설명 + 코드 구현 링크 : [[쉽게 쓰여진 GAN](https://dreamgonfly.github.io/blog/gan-explained/)]
 
 - 논문 링크 : [[GAN Paper](https://arxiv.org/pdf/1406.2661.pdf)]
 
+# 2주차
 
 ## 2. DCGAN
 
@@ -27,10 +29,13 @@ Contents : ResNet, GAN, DCGAN, ProGAN, CycleGAN
 
 - 논문 링크 :  [[DC-GAN Paper](https://arxiv.org/pdf/1511.06434.pdf)]
 
-## 3. ProGAN (PG-GAN이라고도 불림)
 
-- 설명 링크 : [[]()]
-
-- 논문 링크 : [[ProGAN Paper](https://arxiv.org/pdf/1710.10196.pdf)]
 
 #### *나머지는 추후 업로드 예정!*
+
+
+## 3. ProGAN (PG-GAN이라고도 불림)
+
+- 코드 구현 링크 : [[ProGAN Github Page](https://github.com/jeromerony/Progressive_Growing_of_GANs-PyTorch)] (구현하기 정말 쉽게 되어있음)
+
+- 논문 링크 : [[ProGAN Paper](https://arxiv.org/pdf/1710.10196.pdf)]
