@@ -21,4 +21,16 @@ Contents : ResNet, GAN, DCGAN, ProGAN, CycleGAN
 - 논문 링크 : [[GAN Paper](https://arxiv.org/pdf/1406.2661.pdf)]
 
 
+## 2. DCGAN
+
+- 설명 + 코드 구현 링크 :  [[쉽게 쓰여진 GAN](https://dreamgonfly.github.io/blog/gan-explained/)]
+
+- 논문 링크 :  [[DC-GAN Paper](https://arxiv.org/pdf/1511.06434.pdf)]
+
+## 3. ProGAN (PG-GAN이라고도 불림)
+
+- 설명 링크 : [[]()]
+
+- 논문 링크 : [[ProGAN Paper](https://arxiv.org/pdf/1710.10196.pdf)]
+
 #### *나머지는 추후 업로드 예정!*
