@@ -25,13 +25,14 @@ Contents : ResNet, GAN, DCGAN, ProGAN, CycleGAN
 
 ## 2. DCGAN
 
-- 설명 + 코드 구현 링크 :  [[쉽게 쓰여진 GAN](https://dreamgonfly.github.io/blog/gan-explained/)]
+- 설명 + 코드 구현 링크 :  [[쉽게 쓰여진 GAN](https://dreamgonfly.github.io/blog/gan-explained/)] (3채널로 코드 구현바람)
 
 - 논문 링크 :  [[DC-GAN Paper](https://arxiv.org/pdf/1511.06434.pdf)]
 
 - DCGAN 구현된 ipynb 파일 링크 : 코드 구현이 너무 어려우면 공개
 
 
+# 3주차
 
 ## 3. ProGAN (PG-GAN)
 
